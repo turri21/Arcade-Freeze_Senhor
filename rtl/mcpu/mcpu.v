@@ -45,7 +45,7 @@ tv80s cpu(
   .cen     ( cen         ),
   .wait_n  ( mcpu_wait_n ),
   .int_n   ( mcpu_int_n  ),
-  .nmi_n   ( mcpu_nmi_n  ),
+//  .nmi_n   ( mcpu_nmi_n  ),
   .busrq_n ( 1'b1        ),
   .m1_n    ( mcpu_m1_n   ),
   .mreq_n  ( mcpu_mreq_n ),
