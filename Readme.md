@@ -2,7 +2,11 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
-Dev notes: Clocks swapped (no longer needed).
+Dev notes:
+
+Added Arcade-freeze.sdc (it was empty and it caused a huge synthesizing delay)
+
+Clocks swapped (no longer needed).
 ___
 
 # Jack the Giantkiller
@@ -23,4 +27,5 @@ This is a port of Jack the Giantkiller from Cinematronics. It includes:
 - Fix OSD options that are not working well: reset & aspect ratio.
 
 Thanks to all my contributors as usual!
+
 
